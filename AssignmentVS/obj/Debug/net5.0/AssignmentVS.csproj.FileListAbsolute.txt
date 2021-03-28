@@ -1,0 +1,16 @@
+C:\Users\ANIQA FAYYAZ\Documents\AssignmentVS\bin\Debug\net5.0\AssignmentVS.exe
+C:\Users\ANIQA FAYYAZ\Documents\AssignmentVS\bin\Debug\net5.0\AssignmentVS.deps.json
+C:\Users\ANIQA FAYYAZ\Documents\AssignmentVS\bin\Debug\net5.0\AssignmentVS.runtimeconfig.json
+C:\Users\ANIQA FAYYAZ\Documents\AssignmentVS\bin\Debug\net5.0\AssignmentVS.runtimeconfig.dev.json
+C:\Users\ANIQA FAYYAZ\Documents\AssignmentVS\bin\Debug\net5.0\AssignmentVS.dll
+C:\Users\ANIQA FAYYAZ\Documents\AssignmentVS\bin\Debug\net5.0\ref\AssignmentVS.dll
+C:\Users\ANIQA FAYYAZ\Documents\AssignmentVS\bin\Debug\net5.0\AssignmentVS.pdb
+C:\Users\ANIQA FAYYAZ\Documents\AssignmentVS\obj\Debug\net5.0\AssignmentVS.csprojAssemblyReference.cache
+C:\Users\ANIQA FAYYAZ\Documents\AssignmentVS\obj\Debug\net5.0\AssignmentVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANIQA FAYYAZ\Documents\AssignmentVS\obj\Debug\net5.0\AssignmentVS.AssemblyInfoInputs.cache
+C:\Users\ANIQA FAYYAZ\Documents\AssignmentVS\obj\Debug\net5.0\AssignmentVS.AssemblyInfo.cs
+C:\Users\ANIQA FAYYAZ\Documents\AssignmentVS\obj\Debug\net5.0\AssignmentVS.csproj.CoreCompileInputs.cache
+C:\Users\ANIQA FAYYAZ\Documents\AssignmentVS\obj\Debug\net5.0\AssignmentVS.dll
+C:\Users\ANIQA FAYYAZ\Documents\AssignmentVS\obj\Debug\net5.0\ref\AssignmentVS.dll
+C:\Users\ANIQA FAYYAZ\Documents\AssignmentVS\obj\Debug\net5.0\AssignmentVS.pdb
+C:\Users\ANIQA FAYYAZ\Documents\AssignmentVS\obj\Debug\net5.0\AssignmentVS.genruntimeconfig.cache
